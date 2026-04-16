@@ -1,0 +1,29 @@
+# Core dependencies
+groq>=0.11.0
+python-dotenv>=1.0.0
+
+# Data processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# NLP libraries
+nltk>=3.8.0
+spacy>=3.7.0
+sentence-transformers>=2.7.0
+
+# Validation and utilities
+jsonschema>=4.21.0
+scikit-learn>=1.4.0
+tqdm>=4.66.0
+rich>=13.7.0
+markdown>=3.5.0
+
+# Development tools
+pytest>=8.0.0
+black>=24.0.0
+pylint>=3.0.0
+ipykernel>=6.29.0
+
+# UI and Visualization
+streamlit>=1.31.0
+plotly>=5.19.0

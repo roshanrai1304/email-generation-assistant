@@ -1,0 +1,113 @@
+[
+  {
+    "scenario_id": 1,
+    "intent": "Follow up after sales meeting",
+    "key_facts": [
+      "Meeting held on April 10, 2026",
+      "Discussed new CRM implementation",
+      "Quoted $50,000 for the project",
+      "Next step: Send detailed proposal by April 20"
+    ],
+    "tone": "formal"
+  },
+  {
+    "scenario_id": 2,
+    "intent": "Complaint about poor customer service",
+    "key_facts": [
+      "Order number: #78543",
+      "Received damaged product on April 5, 2026",
+      "Customer service rep was unhelpful on phone call",
+      "Requesting full refund and replacement"
+    ],
+    "tone": "urgent"
+  },
+  {
+    "scenario_id": 3,
+    "intent": "Thank team member for excellent work",
+    "key_facts": [
+      "Team member: Alex Rodriguez",
+      "Completed website redesign project",
+      "Delivered 2 weeks ahead of schedule",
+      "Received positive client feedback"
+    ],
+    "tone": "casual"
+  },
+  {
+    "scenario_id": 4,
+    "intent": "Request proposal details from vendor",
+    "key_facts": [
+      "Vendor: CloudTech Solutions",
+      "Need pricing for cloud migration services",
+      "Timeline: Migration must complete by June 30, 2026",
+      "Requirement: Support for 500 users"
+    ],
+    "tone": "formal"
+  },
+  {
+    "scenario_id": 5,
+    "intent": "Apologize for missing deadline",
+    "key_facts": [
+      "Project: Q1 Financial Report",
+      "Original deadline: April 8, 2026",
+      "Reason for delay: Unexpected data discrepancies",
+      "New delivery date: April 15, 2026"
+    ],
+    "tone": "empathetic"
+  },
+  {
+    "scenario_id": 6,
+    "intent": "Invite colleague to networking event",
+    "key_facts": [
+      "Event: AI in Business Summit 2026",
+      "Date: May 15-16, 2026",
+      "Location: San Francisco Convention Center",
+      "Company will cover registration fees"
+    ],
+    "tone": "casual"
+  },
+  {
+    "scenario_id": 7,
+    "intent": "Escalate technical issue to manager",
+    "key_facts": [
+      "Issue: Production server downtime",
+      "Started: April 14, 2026 at 3:00 PM",
+      "Impact: 2000+ customers unable to access platform",
+      "IT team has been working for 4 hours without resolution"
+    ],
+    "tone": "urgent"
+  },
+  {
+    "scenario_id": 8,
+    "intent": "Request time off for vacation",
+    "key_facts": [
+      "Requested dates: June 10-20, 2026",
+      "Total: 8 business days",
+      "Coverage: Sarah Kim has agreed to handle responsibilities",
+      "All projects will be completed before departure"
+    ],
+    "tone": "formal"
+  },
+  {
+    "scenario_id": 9,
+    "intent": "Notify client of project delay",
+    "key_facts": [
+      "Project: Mobile app development",
+      "Original launch date: April 30, 2026",
+      "New launch date: May 15, 2026",
+      "Reason: Additional security testing required",
+      "Benefit: Improved security and user experience"
+    ],
+    "tone": "empathetic"
+  },
+  {
+    "scenario_id": 10,
+    "intent": "Request feedback on presentation",
+    "key_facts": [
+      "Presentation topic: Marketing Strategy for Q3",
+      "Scheduled for: April 25, 2026",
+      "Audience: Executive leadership team",
+      "Would like feedback by April 22, 2026"
+    ],
+    "tone": "casual"
+  }
+]
